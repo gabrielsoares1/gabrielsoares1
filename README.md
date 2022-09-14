@@ -20,7 +20,6 @@
   ##
  
 <div> 
-     	   <a href = "mailto:gabriel_soares10@hotmail.com"><img src="https://img2.gratispng.com/20180810/ter/kisspng-logo-microsoft-outlook-outlook-on-the-web-microsof-troubleshooting-microstoft-outlook-kann-nicht-gest-5b6dad7a158061.9724649215339144900881.jpg" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-soares1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
