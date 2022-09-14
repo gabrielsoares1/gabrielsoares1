@@ -36,13 +36,3 @@
 
 <p>   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielsoares1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="gabrielsoares1" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielsoares1&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y% 5D" alt="gabrielsoares1" /></p>
-
-<br>
-<h3>Troféus:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=gabrielsoares1&bg_color=0d1117&text_color=ffffff" alt="gabrielsoares1" /></a> </p>
-      
