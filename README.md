@@ -1,4 +1,5 @@
-## Olá, meu nome é Gabriel Soares 🧑‍💻
+## <h1>Olá, meu nome é Gabriel Soares 🧑‍💻</h1>
+
 
 **Full-stack Web Developer! 💻**
 
