@@ -18,8 +18,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielsoares1&count_private=true&show_icons=true&locale=pt-br&bg_color=0d1117&text_color=ffffff&layout=compact"/>
 </div>
   
-  ### **HABILIDADES**
-<div style="display: inline_block"><br>
+  ## **HABILIDADES**
+<div>
   <img align="center" alt="gabriel-ruby" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
   <img align="center" alt="gabriel-ruby-on-rails" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg">
   <img align="center" alt="gabriel-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -30,10 +30,12 @@
    <img align="center" alt="gabriel-figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="gabriel-slack" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
   <img align="center" alt="gabriel-trello" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg">
+   <img align="center" alt="gabriel-git" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+  <img align="center" alt="gabriel-github" height="40" width="40" src="https://i.ibb.co/tHcng1s/001-github-logo.png">
 </div>
   
   ##
- 
+
 <div> 
   
   ![Snake animation](https://github.com/gabrielsoares1/gabrielsoares1/blob/output/github-contribution-grid-snake.svg)
