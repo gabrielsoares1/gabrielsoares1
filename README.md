@@ -7,6 +7,7 @@
 <div> 
   <a href = "mailto:gabriel_soares10@hotmail.com"><img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-soares1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://drive.google.com/file/d/1h1FPxxTvgYcrbUTealpm4FwWi9iAOLaS/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-MEU%20CURR%C3%8DCULO-blue?style=for-the-badge" target="_blank"></a> 
  </div
   
 ##
