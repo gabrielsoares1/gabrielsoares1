@@ -3,7 +3,7 @@
 
 **Full-stack Web Developer! 💻**
 
-> Tenho interesse por tecnologia desde os 12 anos, já tive uma Lan-house e uma Loja de Informática. Em 2020, me mudei para o Rio de Janeiro e me apaixonei pela Cidade. Logo após, através de um Bootcamp na Le Wagon São Paulo, me tornando um Full-stack Web Developer. Tenho facilidade com o trabalho em equipe, gosto de aprender, me comunicar com pessoas e focar na resolução de problemas.
+>Apaixonado por tecnologia desde os 12 anos, fui proprietário de uma Lan-house e uma Loja de Informática. Em 2020, me mudei para o Rio de Janeiro e me apaixonei pela Cidade. Logo após, através de um Bootcamp na Le Wagon São Paulo, me tornei um Full-stack Web Developer. Tenho facilidade com o trabalho em equipe, gosto de aprender, me comunicar com pessoas e focar na resolução de problemas.
 <div> 
   <a href = "mailto:gabriel_soares10@hotmail.com"><img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-soares1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
