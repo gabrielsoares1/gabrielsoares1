@@ -15,8 +15,8 @@
 
 <div align="center">
   <a href="https://github.com/gabrielsoares1">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsoares1&count_private=true&show_icons=true&locale=pt-br&bg_color=0d1117&text_color=ffffff&repo=convoychat"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielsoares1&count_private=true&show_icons=true&locale=pt-br&bg_color=0d1117&text_color=ffffff&layout=compact"/>
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrielsoares1&count_private=true&show_icons=true&locale=pt-br&bg_color=0d1117&text_color=ffffff&repo=convoychat"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=gabrielsoares1&count_private=true&show_icons=true&locale=pt-br&bg_color=0d1117&text_color=ffffff&layout=compact"/>
 </div>
   
   ## **HABILIDADES**
